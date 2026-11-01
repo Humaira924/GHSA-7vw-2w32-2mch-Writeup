@@ -22,7 +22,7 @@ I made a step-by-step premium guide for beginners from Pakistan/India:
 - ✅ How to find more CVSS 10.0 bugs
 
 👉 **Get Premium Guide on Gumroad ($9 Launch Price):**
-**[YAHAN APNA GUMROAD LINK PASTE KARO]**
+**[howler65744.gumroad.com]
 
 ## Free Tip For You
 Search on GitHub:
