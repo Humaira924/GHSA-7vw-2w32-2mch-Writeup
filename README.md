@@ -21,8 +21,9 @@ I made a step-by-step premium guide for beginners from Pakistan/India:
 - ✅ My approved GitHub report template (copy-paste)
 - ✅ How to find more CVSS 10.0 bugs
 
-👉 **Get Premium Guide on Gumroad ($9 Launch Price):**
-**[howler65744.gumroad.com]
+👉 **Get Premium Guide on Gumroad ($29 Launch Price):**
+
+**https://howler65744.gumroad.com**
 
 ## Free Tip For You
 Search on GitHub:
